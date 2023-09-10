@@ -11,4 +11,4 @@ I have build this clone from scratch:
 6. making this github repo
 7. deploying it to netlify app via this github repository
 
-the site is live on : https://razorpay-clone-tailwind-css.netlify.app/
+the site is live on : https://discord-clone-tailwind-css.netlify.app/
